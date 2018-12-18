@@ -9,10 +9,11 @@ Gabriel Antonio
 
 Arnold Lima
 
+
 Tema: Publish/Subscribe
 
 
-As implementações realizadas para o trabalho são compostas de duas implementações em C++ e uma em Python, referentes a um sistema Publish/Subscribe centralizado, Publish/Subscribe distribuido com algoritmo de filtragem e Publish/Subscribe distribuido com serviço de nomes, respectivamente.
+As implementações realizadas para o trabalho consistem de duas implementações em C++ e uma em Python, referentes a um sistema Publish/Subscribe centralizado, Publish/Subscribe distribuido com algoritmo de filtragem e Publish/Subscribe distribuido com serviço de nomes, respectivamente.
 
 Instruções de uso:
 
