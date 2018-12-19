@@ -28,4 +28,5 @@ Publish/Subscribe distribuido com algoritmo de filtragem: Devem ser iniciados to
 Python
 
 Compilação em Python: python3 NomeDoPrograma.py
+
 Publish/Subscribe distribuido com algoritmo de filtragem: O serviço de nomes, sob o nome NameServer.py, deve ser executado primeiro, em seguida, feita a inicialização dos Brokers(iniciando "n" instâncias de Broker.py) e finalmente, são instanciados os clientes, iniciando "m" instâncias de Client.py.
