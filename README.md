@@ -1,5 +1,4 @@
-# gabriel.antonio.sd.inf.ufg
-Trabalho Final - Sistemas Distribuidos
+# Trabalho Final - Sistemas Distribuidos
 
 Grupo:
 
